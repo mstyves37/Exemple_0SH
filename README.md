@@ -3,7 +3,7 @@
 =======
 <<<<<<< HEAD
 # Exemple_0SH
-Patrick https://cornhub.website/
+Patrick 
 Gabriel_Botelho_Le_King_De_Val_D'Or
 =======https://cornhub.website/
 Go down
