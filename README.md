@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-- ![#f03c15](https://placehold.it/150/ffffff/ff0000?text=hello_word) `#f03c15`
+- ![#f03c15](https://placehold.it/150/ffffff/ff0000?text=hello) `#f03c15`
 =======
 <<<<<<< HEAD
 # Exemple_0SH
