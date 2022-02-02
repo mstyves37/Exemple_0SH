@@ -1,2 +1,2 @@
 echo off
-Powershell.exe -executionpolicy remotesigned -File  C:\Users\G_Bot\Desktop\mes_scripts\CEGEP_COURS\creer_annee.ps1
+Powershell.exe -executionpolicy remotesigned -File  C:\Users\Enter_Location\creer_cours.ps1
